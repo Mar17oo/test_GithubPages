@@ -15,7 +15,7 @@ Este proyecto es una página web de ejemplo creada para practicar:
 
 1. Clona el repositorio:
    ```
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/Mari17oo/tu_repositorio.git
    ```
 2. Abre el archivo `web_estetica/index.html` en tu navegador.
 
@@ -23,7 +23,6 @@ Este proyecto es una página web de ejemplo creada para practicar:
 
 La página está publicada en:
 
-[https://tu_usuario.github.io/tu_repositorio/web_estetica/](https://tu_usuario.github.io/tu_repositorio/web_estetica/)
 
 ---
 
